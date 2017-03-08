@@ -1,1 +1,1 @@
-Say hello to the world. Haha! This is new version . zzz
+Say hello to the world.
